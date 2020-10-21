@@ -6,7 +6,7 @@ Code names and comments are in spanish
 ### Topics covered:
 - Using malloc and realloc
 - Pointers to void
-- Dinamic memory
+- Dynamic memory
 - Basic Unit testing
 - Separation of concerns
 - Abstraction
